@@ -2,7 +2,6 @@
 
 import random as rdm
 import time as tme
-from pymodalbox import *
 
 
 def verified(sel, selction):
